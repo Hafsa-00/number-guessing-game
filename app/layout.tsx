@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Countdown Timer ",
-  description: "A simple countdown timer application",
+  title: "Number guessing game ",
+  description: "A simple number guessing game",
 };
 
 export default function RootLayout({
